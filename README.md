@@ -2,6 +2,10 @@
 
 An unofficial Model Context Protocol (MCP) server for accessing Fathom Analytics data through an AI assistant. This implementation uses the [@mackenly/fathom-api](https://github.com/mackenly/fathom-api) unofficial SDK to interact with the Fathom Analytics API. Not affiliated, endorsed, or supported by Fathom Analytics.
 
+<a href="https://glama.ai/mcp/servers/56cxbakbc4">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/56cxbakbc4/badge" alt="Fathom Analytics MCP server" />
+</a>
+
 ## Features
 
 The MCP server provides the following Fathom Analytics tools:
