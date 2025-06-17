@@ -4,9 +4,14 @@ An unofficial Model Context Protocol ([MCP](https://modelcontextprotocol.io/intr
 
 [![smithery badge](https://smithery.ai/badge/@mackenly/mcp-fathom-analytics)](https://smithery.ai/server/@mackenly/mcp-fathom-analytics)
 
-<a href="https://glama.ai/mcp/servers/56cxbakbc4">
+<p float="left">
+<a href="https://glama.ai/mcp/servers/56cxbakbc4" width="33%">
   <img width="380" height="200" src="https://glama.ai/mcp/servers/56cxbakbc4/badge" alt="Fathom Analytics MCP server" />
+</a> 
+<a href="https://mseep.ai/app/mackenly-mcp-fathom-analytics" width="33%">
+  <img width="200" src="https://mseep.net/pr/mackenly-mcp-fathom-analytics-badge.png" alt="MseeP.ai Security Assessment Badge" />
 </a>
+</p>
 
 ## Features
 
